@@ -2,13 +2,13 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>ImportExcelToSQL_HangHoa</Name>
-    <LastWriteTime>2018-03-22T09:45:21.0263693Z</LastWriteTime>
+    <LastWriteTime>2018-04-04T07:58:37.0599705Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
       <Name>Package.dtsx</Name>
-      <LastWriteTime>2018-03-22T09:45:20.9743342Z</LastWriteTime>
+      <LastWriteTime>2018-04-04T08:18:39.1218374Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
